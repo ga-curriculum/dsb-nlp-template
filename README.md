@@ -3,7 +3,7 @@
   <span class="headline">NLP and LLMs - Foundations of NLP</span>
 </h1>
 
-## About me
+## About
 NLP foundations introduces various ways to represent text numerically including word vectors and text embeddings. 
 
 ## Learning Objectives

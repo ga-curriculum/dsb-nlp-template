@@ -20,9 +20,9 @@ NLP foundations introduces various ways to represent text numerically including 
 
 | Topic |  About |
 | ------ | ------ |
-| [Full Lesson Deck](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/01-slides) | To be used for the full session, includes the labs below  |
-|  [text-frequency.ipynb](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/02-text-frequency) | First code-a-long and mini-lab  |
-|  [embeddings.ipynb](https://git.generalassemb.ly/modular-curriculum-all-courses/dsb-nlp-template/tree/master/03-embeddings) | Second code-a-long |
+| [Full Lesson Deck](./01-slides/) | To be used for the full session, includes the labs below  |
+|  [text-frequency.ipynb](./02-text-frequency/) | First code-a-long and mini-lab  |
+|  [embeddings.ipynb](./03-embeddings/) | Second code-a-long |
 
 
 
